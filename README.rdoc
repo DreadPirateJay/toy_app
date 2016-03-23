@@ -1,0 +1,3 @@
+== Toy App
+
+The second app from the Ruby on Rails Tutorial
